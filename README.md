@@ -1,8 +1,6 @@
 # CineSync 🎬🍿
 > A user-centric UI/UX redesign of IMDb, built to cure streaming decision fatigue.
 
-![CineSync Banner](https://via.placeholder.com/1000x300/141414/f5c518?text=CineSync+-+Modernizing+the+Movie+Database)
-
 ## 📌 Project Overview
 Modern streaming platforms and movie databases (like IMDb) suffer from immense choice overload, cluttered text-heavy interfaces, and intrusive advertising. **CineSync** is an HCI-driven redesign that transitions from a "designer-assumed" interface to a strictly **user-driven** experience. 
 
@@ -14,6 +12,7 @@ Based on our research with over 100+ survey respondents and field observations, 
 * 🤝 **The Group Watch Lobby:** Eliminates the 45-minute "what should we watch" argument. Users link accounts via a quick invite, and the app generates a Venn Diagram of overlapping watchlist tastes to instantly recommend a movie everyone will enjoy.
 * 🎨 **Mood-Ring Discovery:** For users suffering from cognitive fatigue, this feature replaces text-heavy reviews with visual sentiment chips (e.g., "Mind-Bending," "Feel-Good") and color-coded mood selection.
 * 🗂️ **Poster-Grid Library:** Upgrades the traditional text-spreadsheet watchlist into a highly visual, drag-and-drop poster grid for personalized library curation.
+* 
 * 🔍 **Focus Mode:** A toggle for researchers and film students that instantly strips away all promotional banners, auto-playing trailers, and trivia, leaving a distraction-free, Wikipedia-style layout for extracting technical crew data.
 
 ## 🧠 The HCI Process
@@ -26,6 +25,5 @@ Our design decisions are backed by empirical validation:
 
 ## 🛠️ Tools & Technologies
 * **UI/UX Design:** Figma (Wireframing, Prototyping, Component Libraries)
-* **User Research:** Google Forms, Otter.ai (Interview Transcription)
-* **Data Visualization:** Chart.js, Mermaid/PlantUML (Task Flows)
-* **Documentation:** HTML/CSS, Markdown
+
+
